@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Homework</string>
+    <string name="dc_days">Days</string>
+    <string name="cd_hours">Hours</string>
+    <string name="cd_minutes">Minutes</string>
+    <string name="cd_seconds">Seconds</string>
+    <string name="button_next">NEXT</string>
+    <string name="count_down">Count Down To Election Day</string>
+</resources>

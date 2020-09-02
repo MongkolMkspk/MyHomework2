@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Homework</string>
+    <string name="dc_days">วัน</string>
+    <string name="cd_hours">ชั่วโมง</string>
+    <string name="cd_minutes">นาที</string>
+    <string name="cd_seconds">วินาที</string>
+    <string name="button_next">ถัดไป</string>
+    <string name="count_down">นับถอยหลังวันเลือกตั้ง</string>
+</resources>
